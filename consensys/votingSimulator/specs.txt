@@ -1,0 +1,25 @@
+Inputs:
+	Number of voters
+	Number of preferences
+	Number of representatives
+	Number of proposals voted on
+
+
+Ouputs:
+	Proportion of direct representation
+	Proportion of issues voted on
+	Proportion of desired outcomes
+	Voter satisfaction
+
+
+Parameters:
+	Complexity of proposals
+	Boolean vs gradient preferences
+	Maximum preferences per representative
+	Signed vs unsigned intensities
+	Complete vs incomplete representative preferences
+	Complete vs incomplete voter preferences
+	Perfect vs imperfect reps (error)
+	Voter to representative matching priority (similarity or polarization)
+	Singular vs spread voting weight
+	Delegates playing both sides*

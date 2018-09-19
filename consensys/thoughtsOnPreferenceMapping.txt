@@ -1,0 +1,17 @@
+general model specs:
+	4 voters (1-4)
+	3 preferences (a-c)
+	3 types of proposals (a, a&b, a&b&c)
+
+general assumptions
+	if tie, vote abstained
+
+
+parameters to play with from model to model
+	for and against vs intensity of preference
+	representatives voting based on their values vs classifying proposals
+	representatives represent a single preference vs represent a particular set of preferences
+
+potential edge cases in simplistic model
+	several representatives share the exact same set of preferences
+	voter has not set preferences concerned in upcoming proposal
